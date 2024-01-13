@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--    ROCA Clientes-->
+    <color name="btn_Background_Acceder_Modo_Invitado">#2C384A</color>
+    <color name="btn_Background_Cancelar">#2C384A</color>
+    <color name="btn_Background_Acceder">#039AE4</color>
+    <color name="btn_Text_Acceder">#FFFFFFFF</color>
+    <color name="btn_Text_Cancelar">#FFFFFFFF</color>
+    <color name="Background_Resultados">#03D9C4</color>
+    <color name="Texto_Resultados">#024942</color>
+    <color name="background_Registro_Cala">#FF8F00</color>
+    <color name="background_Registro_Olvide_Contraseña">#8E24AA</color>
+
+    <!--    Resultados Compactacion-->
+    <color name="background_Registro_Estrato">#7CB342</color>
+
+
+</resources>
