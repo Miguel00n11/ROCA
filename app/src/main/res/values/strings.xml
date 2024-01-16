@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ROCA</string>
+    <string name="Usuario">Bienvenido a la aplicación de ROCA</string>
 </resources>
