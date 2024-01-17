@@ -5,9 +5,9 @@
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
     </style>
+
     <style name="PantallaDeAcceso" parent="Theme.Material3.Light.NoActionBar">
         <item name="android:statusBarColor">@color/white</item>
-        <item name="android:windowLightStatusBar">@color/black</item>
 
         <!-- Cambia el color de la barra de acción -->
         <item name="colorPrimary">@color/btn_Background_Acceder_Modo_Invitado</item>
@@ -16,10 +16,11 @@
 
 
     </style>
-    <style name="PantallaDeObras" parent="Theme.Material3.Light.NoActionBar">
-        <item name="android:statusBarColor">@color/Background_Pantalla_Seleccionar_Actividad_Noche</item>
-        <item name="android:background">@color/Background_Pantalla_Seleccionar_Actividad_Noche</item>
 
+    <style name="PantallaDeObras" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/background_Seleccion_De_Obras</item>
+
+        <!--        <item name="android:background">@color/Background_Pantalla_Seleccionar_Actividad_Noche</item>-->
 
 
         <!-- Cambia el color de la barra de acción -->

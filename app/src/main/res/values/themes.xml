@@ -47,7 +47,7 @@
 
 
     <style name="PantallaDeObras" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="android:statusBarColor">@color/Background_Pantalla_Seleccionar_Actividad</item>
+
         <!-- Cambia el color de la barra de acción -->
         <item name="colorPrimary">@color/Background_Pantalla_Acceso</item>
         <item name="colorPrimaryDark">@color/Background_Pantalla_Acceso</item>
