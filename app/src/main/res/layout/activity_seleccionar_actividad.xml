@@ -28,15 +28,30 @@
         app:cardCornerRadius="16dp"
         app:layout_constraintBottom_toTopOf="@+id/btnReCalculate"
         app:layout_constraintEnd_toEndOf="parent"
+        android:orientation="vertical"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvTitle">
+
+
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="16dp"
+            android:layout_marginHorizontal="16dp"
             android:gravity="center"
             android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Selecciona Obra"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                android:paddingVertical="8dp"
+                android:layout_gravity="center|top"
+                android:textStyle="bold"/>
+
+
 
             <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/rvObrasDeClientes"
